@@ -1,3 +1,5 @@
+**Inactive Project:** I'm investigating a variety of open source tools to fill this role like [blackbox](https://github.com/StackExchange/blackbox) and [crypt](https://github.com/xordataexchange/crypt). It's unlikely I'll be rolling my own via this project.
+
 lazarus
 =========
 
