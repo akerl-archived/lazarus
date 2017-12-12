@@ -14,7 +14,7 @@ Gem::Specification.new do |s|
   s.test_files  = `git ls-files spec/*`.split
   s.executables = ['lazarus']
 
-  s.add_development_dependency 'rubocop', '~> 0.51.0'
+  s.add_development_dependency 'rubocop', '~> 0.52.0'
   s.add_development_dependency 'goodcop', '~> 0.1.0'
   s.add_development_dependency 'rake', '~> 12.3.0'
   s.add_development_dependency 'coveralls', '~> 0.8.0'
