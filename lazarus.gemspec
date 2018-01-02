@@ -15,7 +15,7 @@ Gem::Specification.new do |s|
   s.executables = ['lazarus']
 
   s.add_development_dependency 'rubocop', '~> 0.52.0'
-  s.add_development_dependency 'goodcop', '~> 0.1.1'
+  s.add_development_dependency 'goodcop', '~> 0.2.0'
   s.add_development_dependency 'rake', '~> 12.3.0'
   s.add_development_dependency 'coveralls', '~> 0.8.0'
   s.add_development_dependency 'rspec', '~> 3.7.0'
