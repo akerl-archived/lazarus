@@ -4,7 +4,6 @@ lazarus
 =========
 
 [![Gem Version](https://img.shields.io/gem/v/lazarus.svg)](https://rubygems.org/gems/lazarus)
-[![Dependency Status](https://img.shields.io/gemnasium/akerl/lazarus.svg)](https://gemnasium.com/akerl/lazarus)
 [![Code Climate](https://img.shields.io/codeclimate/github/akerl/lazarus.svg)](https://codeclimate.com/github/akerl/lazarus)
 [![Coverage Status](https://img.shields.io/coveralls/akerl/lazarus.svg)](https://coveralls.io/r/akerl/lazarus)
 [![Build Status](https://img.shields.io/travis/akerl/lazarus.svg)](https://travis-ci.org/akerl/lazarus)
